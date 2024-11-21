@@ -1,16 +1,20 @@
-## Hi there 👋
+# <Michael Hyer>
 
-<!--
-**SeriousMikey/SeriousMikey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Michael Hyer, a student at Brigham Young University-Idaho interested in Game and Web Development. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning Software Testing and Software Principles.
+- My goals are to graduate with my bachelor's degree in Software Development and make my own video games!
+
+## Technologies and Tools
+
+- Proficient in: HTML, CSS, Javascript, C#, Python, GDScript
+
+## Let's Connect!
+
+- Here is my LinkedIn profile https://www.linkedin.com/in/michael-hyer-b2b323257/
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
