@@ -2,19 +2,13 @@
 
 Hello, GitHub! 👋
 
-I'm Michael Hyer, a student at Brigham Young University-Idaho interested in Game and Web Development. Welcome to my GitHub profile!
+I'm Michael Hyer. I'm interesting in Game, Web, and Software Development. Welcome to my GitHub profile!
 
 ## About Me
 
-- I'm currently learning Software Testing and Software Principles.
-- My goals are to graduate with my bachelor's degree in Software Development and make my own video games!
+- I have a Bachelor's Degree in Software Development
+- My goal is to make cool apps, websites, and video games that I and everyone else can enjoy
 
 ## Technologies and Tools
 
-- Proficient in: HTML, CSS, Javascript, C#, Python, GDScript
-
-## Let's Connect!
-
-- Here is my LinkedIn profile https://www.linkedin.com/in/michael-hyer-b2b323257/
-
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+- Proficient in: HTML, CSS, Javascript, C#, Python, GDScript, React JS, React Native, GitHub, SQL, PostgreSQL, and others.
